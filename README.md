@@ -9,4 +9,3 @@
 역할 : Merge Logic, Record Board
 GitHub : <링크>
 영상 : <링크>
-![image](https://github.com/kory199/CandyMerge/assets/97496901/1e47822b-5fe6-4011-a8b3-453e33415308)
