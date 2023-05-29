@@ -1,9 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UI;
-using UnityEditor;
 using TMPro;
+using UnityEditor;
+using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class UIManager : MonoBehaviour
@@ -29,8 +26,6 @@ public class UIManager : MonoBehaviour
     public float Score = 0;
     private float bestScore = 0;
     private bool isStart = false;
-
-
 
     private void Awake()
     {
